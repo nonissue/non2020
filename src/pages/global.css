@@ -1,0 +1,6 @@
+html,
+body {
+  /* prevent horizontal scroll */
+  /* position: fixed;  */
+  width: 100%;
+}
